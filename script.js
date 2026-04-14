@@ -1,5 +1,5 @@
 // 1. Buscamos el botón por su ID
-const boton = document.getElementById('miBotonn');
+const boton = document.getElementById('miBoton');
 
 // 2. Escuchamos el evento 'click'
 boton.addEventListener('click', () => {
